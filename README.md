@@ -6,7 +6,7 @@
 
 ## 🚀  Sobre mim  
 
--  **Tecnóloga em Análise e Desenvolvimento de Sistemas pela FIAP**
+-  **Tecnólogo em Análise e Desenvolvimento de Sistemas pela FIAP**
  
  - **Sempre buscando evoluir como desenvolvedora**
   
