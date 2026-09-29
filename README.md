@@ -6,7 +6,7 @@
 
 ## 🚀  Sobre mim  
 
--  **Atualmente cursando Análise e Desenvolvimento de Sistemas**
+-  **Tecnóloga em Análise e Desenvolvimento de Sistemas pela FIAP**
  
  - **Sempre buscando evoluir como desenvolvedora**
   
