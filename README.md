@@ -1,25 +1,25 @@
-# Olá, me chamo Laura Amadeu 👋
+# Olá, eu sou a Laura Amadeu 👋
 
-**Bem-vindo ao meu perfil GitHub!**  
+Desenvolvedora em início de carreira, com foco em aplicações **web e mobile**.
 
----
+## 🚀 Sobre mim
 
-## 🚀  Sobre mim  
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas pela **FIAP**
+- 🔎 Em busca de uma oportunidade na área de desenvolvimento
 
--  **Tecnólogo em Análise e Desenvolvimento de Sistemas pela FIAP**
- 
- - **Sempre buscando evoluir como desenvolvedora**
-  
--  **Contato: lauraamadeu1404@gmail.com**
+## 🛠️ Tecnologias
 
----
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VS Code](https://skillicons.dev/icons?i=vscode)
 
-### 💻 Linguagens e Tecnologias
-![image](https://github.com/user-attachments/assets/44034131-492b-4782-abb7-69ab32e44d84)
-![image](https://github.com/user-attachments/assets/e7b7e90a-37fa-468d-87e7-3dca652cd81d)
-![image](https://github.com/user-attachments/assets/251e0c6c-56b5-4ca5-b58b-0ea8e4bda21a)
-![image](https://github.com/user-attachments/assets/879cc543-de7e-464a-8702-dc0a7ee72be5)
+**Web e mobile:** React Native, Next.js, Tailwind CSS
+**Linguagens:** Java, Python
+**Bancos de dados:** MySQL, Oracle
+**Ferramentas:** Git, GitHub, VS Code, APIs REST
 
+## 📫 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/laura-amadeu/)
+- 📧 lauraamadeu1404@gmail.com
 
 
 
